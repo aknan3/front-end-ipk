@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Utils.ModifyUserFragment">
+
+    <TextView
+        android:id="@+id/account_username_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Username"
+        android:textSize="@dimen/textSize_18"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/account_username_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:hint=""
+        android:text=""
+        android:textSize="@dimen/textSize_12"
+        android:layout_below="@+id/account_username_textview"
+        android:inputType="textPersonName"
+        />
+
+    <TextView
+        android:id="@+id/account_gender_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/account_username_edittext"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/Gender"
+        android:textSize="@dimen/textSize_18"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/account_gender_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="10dp"
+        android:layout_below="@+id/account_gender_textview"
+        />
+
+    <TextView
+        android:id="@+id/account_location_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/account_gender_spinner"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Location"
+        android:textSize="@dimen/textSize_18"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/account_location_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:hint="place of residence"
+
+        android:layout_below="@+id/account_location_textview"
+        android:inputType="text"
+        />
+    <TextView
+        android:id="@+id/account_description_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="Description"
+        android:textStyle="bold"
+        android:textSize="@dimen/textSize_18"
+        android:layout_below="@+id/account_location_edittext"
+        />
+    <EditText
+        android:id="@+id/account_description_edittext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:hint="your personal description"
+        android:layout_below="@+id/account_description_textview"
+        android:inputType="text"
+        />
+
+    <ProgressBar
+        android:id="@+id/account_progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/account_description_edittext"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+
+
+        android:visibility="invisible"
+         />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/account_save_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/account_progressBar"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:text="change Profile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</RelativeLayout>

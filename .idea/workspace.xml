@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="INFO" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59047bcf-f144-42c5-936a-f70fa0e38f1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/RestAPI_model/ChatForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/RestAPI_model/CommentForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/RestAPI_model/MessageForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Utils/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Utils/ModifyUserFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_option.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/choose_image.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_offnoti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_onnoti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/drawable/post_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/font/alice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity_chat_room.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/fragment_modify_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/item_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/TinTok.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/TinTok.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_AppMainPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_AppMainPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_ChatRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_ViewProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_ViewProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/BaseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/BaseAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/BaseViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/BaseViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/ImagePageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PeopleBrowsingAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PeopleBrowsingAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PeopleBrowsingViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PeopleBrowsingViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PostAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PostAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/Communication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/Communication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/CommunicationEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/CommunicationEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/PacketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/PacketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/RestAPI_Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/RestAPI_Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/SecureConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Communication/SecureConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Login_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Login_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/MainPages__PeopleBrowsing__Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/MainPages__PeopleBrowsing__Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/MainpagesPeoplebrowsingFragmentViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/ChatRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/MediaEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/MessageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/MessageEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/RecyclerViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/RecyclerViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/UserProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/PostFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/ProfileFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/ProfileImageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/ProfileInfoFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Sign_up_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/Sign_up_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/StackViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tintok/StackViewPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/anim/animation_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/anim/animation_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/anim/animation_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/anim/animation_out.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity__chat_room.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity__view_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity_view_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity_app_main_pages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/activity_app_main_pages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/mainpages__peoplebrowsing__fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/mainpages__peoplebrowsing__fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/mainpages__peoplebrowsing__item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/mainpages__peoplebrowsing__item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/message_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/post_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_image_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_image_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_image_page_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_info_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/layout/profile_info_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/menu/mainpage_navbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/menu/mainpage_navbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/xml/network_security_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category2/xml/network_security_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/login_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/post_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sign_up_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sign_up_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kVta1bA6wOdEXeamfwTjdr5JaM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_XL_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-17T20:48:54.054Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android-custom-viewC:/Users/Yoschi/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_SELECTED" value="BottomNavigationView" />
+    <property name="android-custom-viewC:/Users/Yoschi/AndroidStudioProjects/tintok_5/TinTok/app/src/main/java/com/example/tintok/CustomView/EditTextSupportIME.java_SELECTED" value="EditTextSupportIME" />
+    <property name="android-custom-viewC:/Users/proli/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/proli/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
+    <property name="android-custom-viewC:/Users/proli/.gradle/caches/modules-2/files-2.1/com.yuyakaido.android/card-stack-view/2.3.4/f71a9612bf45eefafc10121422f8c3f919c460bf/card-stack-view-2.3.4-sources.jar!/com/yuyakaido/android/cardstackview/CardStackView.java_SELECTED" value="CardStackView" />
+    <property name="android-custom-viewC:/Users/proli/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewK:/DOCS/TU_Darmstadt/Projects/Internet-Praktikum/TinTok/app/src/main/java/com/example/tintok/CustomView/EditTextSupportIME.java_SELECTED" value="EditTextSupportIME" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tintok_3/frontend" />
+    <property name="multi-representation-previewC:/Users/Yoschi/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Yoschi/AndroidStudioProjects/tintok_5/TinTok/app/src/main/java/com/example/tintok/CustomView/EditTextSupportIME.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/proli/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/proli/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/proli/.gradle/caches/modules-2/files-2.1/com.yuyakaido.android/card-stack-view/2.3.4/f71a9612bf45eefafc10121422f8c3f919c460bf/card-stack-view-2.3.4-sources.jar!/com/yuyakaido/android/cardstackview/CardStackView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/proli/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewK:/DOCS/TU_Darmstadt/Projects/Internet-Praktikum/TinTok/app/src/main/java/com/example/tintok/CustomView/EditTextSupportIME.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\DOCS\TU_Darmstadt\Projects\Internet-Praktikum\TinTok\app\src\main\res\layout" />
+      <recent name="K:\DOCS\TU_Darmstadt\Projects\Internet-Praktikum\TinTok\app\src\main\res\layout\Layout" />
+      <recent name="K:\DOCS\TU_Darmstadt\Projects\Internet-Praktikum\TinTok\app\src\main\res\layout\LoginPages" />
+    </key>
+    <key name="android.template.497876204">
+      <recent name="com.example.tintok" />
+    </key>
+    <key name="android.template.-210774550">
+      <recent name="com.example.tintok" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.tintok.Utils" />
+      <recent name="com.example.tintok.Communication" />
+      <recent name="com.example.tintok" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\DOCS\TU_Darmstadt\Projects\Internet-Praktikum\TinTok\app\src\main\java\com\example\tintok\Adapters_ViewHolder" />
+    </key>
+    <key name="android.template.-1670897348">
+      <recent name="com.example.tintok" />
+    </key>
+    <key name="android.template.431566172">
+      <recent name="com.example.tintok" />
+      <recent name="com.example.tintok.Model" />
+    </key>
+    <key name="android.template.2078468520">
+      <recent name="com.example.tintok" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="TinTok.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59047bcf-f144-42c5-936a-f70fa0e38f1c" name="Default Changelist" comment="" />
+      <created>1605797645261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605797645261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2397" y="475" key="#PSD" timestamp="1607803367868">
+      <screen x="1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="477" y="266" key="#PSD/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607689831185" />
+    <state x="2397" y="475" key="#PSD/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607803367868" />
+    <state x="483" y="-1080" key="#app" timestamp="1608286859263">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="483" y="-1080" key="#app/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608286859263" />
+    <state x="612" y="-900" key="#com.intellij.ide.util.MemberChooser" timestamp="1608660188963">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="612" y="-900" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608660188963" />
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608237252509" />
+    <state x="2685" y="436" key="#com.intellij.ide.util.MemberChooser/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1608128827742" />
+    <state x="495" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608042433748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608042433748" />
+    <state x="580" y="-772" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608566786345">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="580" y="-772" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608566786345" />
+    <state x="483" y="254" width="468" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/0.-1080.1536.824@0.0.1280.680" timestamp="1608308354307" />
+    <state x="725" y="389" width="469" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608217905724" />
+    <state x="2645" y="598" width="513" height="308" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607542544882" />
+    <state x="815" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608042398821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608042398821" />
+    <state x="2670" y="460" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607530327851" />
+    <state x="552" y="-868" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608573450313">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="552" y="-868" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608573450313" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608242049256" />
+    <state x="2610" y="476" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607524619713" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1608042694420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608042694420" />
+    <state x="67" y="68" width="1147" height="548" key="AVDManager" timestamp="1608297617616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="80" y="-998" width="1376" height="664" key="AVDManager/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608288576147" />
+    <state x="67" y="68" width="1147" height="548" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1608297617616" />
+    <state x="100" y="103" width="1720" height="837" key="AVDManager/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608229885054" />
+    <state x="1996" y="269" width="1720" height="837" key="AVDManager/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607804325488" />
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1605901118746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605901118746" />
+    <state x="360" y="-898" key="AndroidCreateResourceFileDialog" timestamp="1608573459365">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="360" y="-898" key="AndroidCreateResourceFileDialog/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608573459365" />
+    <state x="1035" y="329" key="AndroidCreateResourceFileDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608234451577" />
+    <state x="2460" y="484" key="AndroidCreateResourceFileDialog/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607699583310" />
+    <state x="574" y="-878" key="AndroidCreateXmlResourceDialog" timestamp="1608569410170">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="574" y="-878" key="AndroidCreateXmlResourceDialog/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608569410170" />
+    <state x="2678" y="476" key="AndroidProcessChooserDialog" timestamp="1606768408639">
+      <screen x="1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="758" y="267" key="AndroidProcessChooserDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606512399978" />
+    <state x="2678" y="476" key="AndroidProcessChooserDialog/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1606768408639" />
+    <state x="640" y="275" key="Downloadable.Font.Dialog.Size" timestamp="1608141155536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="275" key="Downloadable.Font.Dialog.Size/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608141155536" />
+    <state x="592" y="-862" key="FileChooserDialogImpl" timestamp="1608556217187">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="592" y="-862" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608556217187" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608027355509" />
+    <state width="1491" height="211" key="GridCell.Tab.0.bottom" timestamp="1608644556258">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608644556258" />
+    <state width="1876" height="339" key="GridCell.Tab.0.bottom/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608242646986" />
+    <state width="1876" height="337" key="GridCell.Tab.0.bottom/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1608197030363" />
+    <state width="1491" height="211" key="GridCell.Tab.0.center" timestamp="1608644556258">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="211" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608644556258" />
+    <state width="1876" height="339" key="GridCell.Tab.0.center/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608242646985" />
+    <state width="1876" height="337" key="GridCell.Tab.0.center/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1608197030363" />
+    <state width="1491" height="211" key="GridCell.Tab.0.left" timestamp="1608644556258">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="211" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608644556258" />
+    <state width="1876" height="339" key="GridCell.Tab.0.left/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608242646985" />
+    <state width="1876" height="337" key="GridCell.Tab.0.left/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1608197030363" />
+    <state width="1491" height="211" key="GridCell.Tab.0.right" timestamp="1608644556258">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="211" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608644556258" />
+    <state width="1876" height="339" key="GridCell.Tab.0.right/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608242646985" />
+    <state width="1876" height="337" key="GridCell.Tab.0.right/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1608197030363" />
+    <state width="1491" height="242" key="GridCell.Tab.1.bottom" timestamp="1608575210226">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="242" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608575210226" />
+    <state width="1491" height="242" key="GridCell.Tab.1.center" timestamp="1608575210226">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="242" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608575210226" />
+    <state width="1491" height="242" key="GridCell.Tab.1.left" timestamp="1608575210226">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="242" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608575210226" />
+    <state width="1491" height="242" key="GridCell.Tab.1.right" timestamp="1608575210226">
+      <screen x="0" y="-1080" width="1536" height="824" />
+    </state>
+    <state width="1491" height="242" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1536.824@0.-1080.1536.824" timestamp="1608575210226" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1605914500364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605914500364" />
+    <state x="461" y="171" key="SettingsEditor" timestamp="1607803355915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="171" key="SettingsEditor/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607803355915" />
+    <state x="341" y="40" width="1488" height="691" key="dock-window-1" timestamp="1607710030720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2028" y="257" width="1524" height="720" key="dock-window-1/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607705385643" />
+    <state x="341" y="40" width="1488" height="691" key="dock-window-1/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607710030720" />
+    <state x="690" y="274" key="extract.method.dialog" timestamp="1606504552199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="extract.method.dialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606504552199" />
+    <state x="803" y="278" key="refactoring.ChangeSignatureDialog" timestamp="1605912340816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="278" key="refactoring.ChangeSignatureDialog/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605912340816" />
+    <state x="2536" y="345" key="run.anything.popup" timestamp="1607803365398">
+      <screen x="1920" y="209" width="1920" height="1040" />
+    </state>
+    <state x="616" y="136" key="run.anything.popup/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607803345529" />
+    <state x="2536" y="345" key="run.anything.popup/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607803365398" />
+    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup" timestamp="1608298177610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1608298177610" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.209.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608228580682" />
+    <state x="2543" y="434" width="672" height="678" key="search.everywhere.popup/1920.209.1920.1040/0.0.1920.1040@1920.209.1920.1040" timestamp="1607676438398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/Adapters_ViewHolder/PeopleBrowsingAdapter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/Model/MessageEntity.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/DataLayer/DataRepositiory_Chatrooms.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_ViewProfile_ViewModel.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/DataLayer/DataRepository_CurrentUser.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/Activity_AppMainPages.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/DataLayer/DataRepository_CurrentUser.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/MainPages_MyProfile_Fragment.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/tintok/MainPages_MyProfile_Fragment.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
