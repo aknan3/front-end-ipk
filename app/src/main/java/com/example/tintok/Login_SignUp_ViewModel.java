@@ -18,10 +18,10 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class ForgetPasswordViewModel extends AndroidViewModel {
+public class Login_signup_ViewModel extends AndroidViewModel {
     private RestAPI api;
 
-    public ForgetPasswordViewModel(Application app){
+    public Login_signup_ViewModel(Application app){
         super(app);
         this.api = Communication.getInstance().getApi();
     }
@@ -51,11 +51,11 @@ public class ForgetPasswordViewModel extends AndroidViewModel {
     }
 
     private void snackBarShow(String msg){
-        Snackbar snachbar = Snackbar.make(((Activity)this.getApplication().getApplicationContext()).findViewById(R.id.fragment), msg, Snackbar.LENGTH_LONG);
-        snachbar.setAction("Hide", new View.OnClickListener() {
+        Snackbar snackbar = Snackbar.make(((Activity)this.getApplication().getApplicationContext()).findViewById(R.id.fragment), msg, Snackbar.LENGTH_LONG);
+        snackbar.setAction("Hide", new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                snachbar.dismiss();
+                snackbar.dismiss();
             }
         }).show();
     }
